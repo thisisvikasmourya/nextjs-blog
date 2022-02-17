@@ -11,3 +11,4 @@ export {default as Author} from './Author';
 export {default as About} from './About';
 export {default as Share} from './Share';
 export {default as FeaturedPostCard} from './FeaturedPostCard';
+export { default as Loader } from './Loader';
